@@ -14,16 +14,15 @@
 
 📚 I cant say I love reading books but I try reading on subjects like **History**, **Psychology** & **Management**.
 
-## 🏅 Achievements
-
--   🏆 Being alive after living 20 years in middle east.
 
 ## 🛠️ Skills
+
 
 ### Languages
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 ### Front-End Development
 
@@ -39,16 +38,19 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
 ## 🖥️ Workspace Setup
 
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 
 ## 📈 Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true&count_private=true" alt="Amin's GitHub Stats">
 </div>
+
 
 ## 🔗 Links
 
