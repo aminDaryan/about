@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Amin, a **Front End Web Developer** (specializing in **React Applications**).
+🎓 I'm Amin, a **Front End Web Developer** (specializing in **React Applications**).
 
 👨‍💻 In 2019, I started leartning **HTML** and as I progressed, I started learning **javascript** and **React**. Right now working with **Next.js** and **Progressive Web App (PWA)**. During years I learned that I have a knack for UX and am more drawn to the design aspect of the apps rather than whats going on in the back!
 
-🎸 As for my hobbies, well, here we go. I love SCIENCE! YEAH GO SCIENCE B***H! Well when it comes to Physics, Math and astronomy Im all ears. In Humanities Im all for Pscychology, politics and Sociology and ofcourse history. But you will usually find me interested in everything because Im a bit too curious to know everything. Sometimes you'll see me in the gym, at times attending music lessons and sometimes just drinking coffee and thinking about... well anything to be honest.
+🎸 As for my hobbies, well, here we go. I love **SCIENCE! YEAH GO SCIENCE!** When it comes to **Physics**, **Math** and **Astronomy** Im all ears. In Humanities Im all for **Pscychology**, **Politics** and **Sociology** and ofcourse **History**. But you will usually find me interested in everything because Im a bit too curious to know everything. Sometimes you'll see me in the gym, at times attending music lessons and sometimes just drinking coffee and thinking about... well anything to be honest.
 
 📚 I cant say I love reading books but I try reading on subjects like **History**, **Psychology** & **Management**.
 
@@ -54,10 +54,6 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/aminDaryan)
-
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--END_SECTION:waka-->
 
