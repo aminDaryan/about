@@ -48,15 +48,19 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true" alt="Amin's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=aminDaryan.about" alt="visitors">
 </div>
 
 ## 🔗 Links
 
-[![Linkedin](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/aminDaryan)
 
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
