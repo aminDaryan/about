@@ -54,7 +54,7 @@
 
 ## 🔗 Links
 
-[![linked-in](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
+[![Linkedin](https://www.linkedin.com/in/amin-daryan/?lipi=urn%3Ali%3Apage%3Anotifications_index_index%3B845a4727-e5ad-4621-b9ab-26dea005fef5)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy)
 
 <!-- Markdown -->
