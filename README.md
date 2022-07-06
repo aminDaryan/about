@@ -8,7 +8,7 @@
 
 🎓 I'm Amin, a **Front End Web Developer** (specializing in **React Applications**).
 
-👨‍💻 In 2019, I started leartning **HTML** and as I progressed, I started learning **javascript** and **React**. Right now working with **Next.js** and **Progressive Web App (PWA)**. During years I learned that I have a knack for UX and am more drawn to the design aspect of the apps rather than whats going on in the back!
+👨‍💻 In 2019, I started learning programming and as I progressed, I started learning **javascript** and **React**. Right now working with **Next.js** and **Progressive Web App (PWA)**. During years I learned that I have a knack for UX and am more drawn to the design aspect of the apps rather than whats going on in the back!
 
 🎸 As for my hobbies, well, I love **SCIENCE!** When it comes to **Physics**, **Math** and **Astronomy** Im all ears. In Humanities Im all for **Pscychology**, **Politics** and **Sociology** and ofcourse **History**. But you will usually find me interested in everything because Im a bit too curious to know everything. Sometimes you'll see me in the gym, at times attending music lessons and sometimes just drinking coffee and thinking about... well anything to be honest.
 
