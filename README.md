@@ -47,7 +47,7 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true" alt="Amin's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true&count_private=true" alt="Amin's GitHub Stats">
 </div>
 
 ## 🔗 Links
