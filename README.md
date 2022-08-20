@@ -51,6 +51,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aminDaryan&show_icons=true&hide_border=true&count_private=true" alt="Amin's GitHub Stats">
 </div>
 
+## 🔬 Daily.dev Blogs
+
+<a href="https://app.daily.dev/AminTheOne"><img src="https://api.daily.dev/devcards/5513cf2a53c2492b8dd86089aa17e831.png?r=zrc" width="400" alt="Amin's Dev Card"/></a>
 
 ## 🔗 Links
 
