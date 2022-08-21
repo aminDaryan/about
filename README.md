@@ -53,7 +53,9 @@
 
 ## 🔬 Daily.dev Blogs
 
+<div align="center">
 <a href="https://app.daily.dev/AminTheOne"><img src="https://api.daily.dev/devcards/5513cf2a53c2492b8dd86089aa17e831.png?r=zrc" width="400" alt="Amin's Dev Card"/></a>
+</div>
 
 ## 🔗 Links
 
